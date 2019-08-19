@@ -1,3 +1,3 @@
 # pages-test
 
-test
+test foo bar
